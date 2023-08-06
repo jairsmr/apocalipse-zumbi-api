@@ -1,0 +1,10 @@
+{
+  "development": {
+    "username": "root",
+    "password": "safeall2021",
+    "database": "apocalipse_zumbi",
+    "host": "localhost",
+    "port": 3308,
+    "dialect": "mysql2"
+  }
+}
